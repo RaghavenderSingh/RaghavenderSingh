@@ -87,17 +87,6 @@ Self-custodial Solana wallet with 1K+ users. Jupiter API, Web3Auth, SPL tokens. 
 
 ---
 
-## Open Source
-
-| Repo | PR | What |
-|---|---|---|
-| `rust-lang/rust` | [#155146](https://github.com/rust-lang/rust/pull/155146) | Fixed ICE when using attributes on delegation items — `hir_walk_toplevel_module` skipping delegation items in `delayed_lint_items`. Closed after parallel revert landed. |
-| `rust-lang/rust` | [#154884](https://github.com/rust-lang/rust/pull/154884) | Fixed ICE in `ptr_metadata_ty_or_tail` for recursive associated types — traced normalization overflow to escaping `TyVar`. |
-| `anza-xyz/solana-sdk` | [#187](https://github.com/anza-xyz/solana-sdk/pull/187) | `solana-sdk-macro` explicit import pattern for `solana_pubkey::Pubkey` (following `num_derive` / `spl_program_error` patterns). |
-| `rust-lang/cargo` | merged | Minor fix. |
-
----
-
 ## Stats
 
 <div align="center">
@@ -112,6 +101,8 @@ Self-custodial Solana wallet with 1K+ users. Jupiter API, Web3Auth, SPL tokens. 
 ![Streak](https://streak-stats.demolab.com?user=RaghavenderSingh&theme=tokyonight&hide_border=true)
 
 </div>
+
+![Visitors](https://komarev.com/ghpvc/?username=RaghavenderSingh&style=flat-square&color=6366f1&label=profile+views)
 
 ---
 
